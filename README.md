@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png">
  <br>🌺 API de Segurança - Java + Spring Segurity
 </h1>
 
